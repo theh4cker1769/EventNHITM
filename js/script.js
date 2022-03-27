@@ -30,8 +30,8 @@
 
     $('#simple-timer').syotimer({
         year: 2022,
-        month: 5,
-        day: 9,
+        month: 4,
+        day: 1,
         hour: 20,
         minute: 30
     });

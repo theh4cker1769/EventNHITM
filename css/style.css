@@ -48,6 +48,7 @@ html {
     height: 100%;
     width: 100%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 a {
@@ -1448,5 +1449,30 @@ Responsive
 }
 
 .cus-logo {
-    width: 100px;
+    width: 90px;
+}
+
+.main-nav,
+.navbar-brand {
+    padding: 0;
+}
+
+.section-banner .banner-content h1 {
+    font-size: 70px;
+}
+
+.client-item {
+    width: 25%;
+}
+
+.event-logo {
+    max-width: 90%;
+}
+
+.footer {
+    padding-top: 20px;
+}
+
+.copy.border-top {
+    font-size: 18px;
 }
